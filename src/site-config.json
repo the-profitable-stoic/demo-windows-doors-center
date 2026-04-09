@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Windows & Doors Center",
+    "phone": "+15626336606",
+    "category": "window replacement company",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Window Replacement Experts",
+      "heroSubline": "Durable windows and doors built for the California climate. Protecting homes from sun, wind, and worry since 2012.",
+      "aboutTitle": "Built on Experience, Rooted in Long Beach",
+      "aboutText": [
+        "Windows & Doors Center started with a simple mission: to provide Long Beach residents with top-quality window and door replacements that stand up to the unique challenges of our coastal climate. We've seen firsthand how the California sun and occasional Santa Ana winds can wreak havoc on inferior materials.",
+        "Our approach is straightforward: honest assessments, transparent pricing, and meticulous installations. We don't cut corners, and we stand behind our work. We treat every home as if it were our own, ensuring a perfect fit and lasting performance.",
+        "We're proud to be a part of the Long Beach community. From Belmont Shore to Bixby Knolls, we're committed to providing reliable service and contributing to the beauty and resilience of our neighborhoods. We source materials locally whenever possible, supporting other businesses in the area."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Long Beach's climate and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Durable windows and doors built to last."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Expert installation by certified technicians."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Home Today",
+      "ctaSubline": "Get a free, no-obligation quote for window and door replacement."
+    },
+    "services": [
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Upgrade your home with energy-efficient, durable windows.",
+        "description": "Replacing your windows is an investment in your home's comfort, energy efficiency, and value. At Windows & Doors Center, we offer a wide selection of window styles and materials to suit any home and budget. From classic double-hung windows to modern sliding windows, we'll help you find the perfect fit for your Long Beach home. We carefully consider the local climate, recommending options that provide superior insulation, UV protection, and resistance to moisture and pests. \n\nOur installation process is meticulous, ensuring a weathertight seal and proper operation. We handle everything from removing your old windows to installing the new ones, with minimal disruption to your daily life. We also offer window repair services for minor damage and maintenance needs.\n\nWe pride ourselves on providing exceptional service and quality craftsmanship. Our team of experienced installers is dedicated to ensuring your complete satisfaction. We'll work with you every step of the way, from selecting the right windows to ensuring a flawless installation.",
+        "process": [
+          "Step 1: Consultation and Measurement",
+          "Step 2: Window Selection and Quote",
+          "Step 3: Professional Installation",
+          "Step 4: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Enhanced Home Value",
+          "Increased Comfort",
+          "Reduced Noise Pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does window replacement take?",
+            "answer": "The duration depends on the number of windows and the complexity of the installation, but most projects are completed within a few days. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "What types of windows do you offer?",
+            "answer": "We offer a wide variety of window styles, including double-hung, casement, sliding, bay, and picture windows. We also offer different frame materials, such as vinyl, wood, and aluminum."
+          },
+          {
+            "question": "Do you offer a warranty on your windows?",
+            "answer": "Yes, all of our windows come with a manufacturer's warranty, and we also offer a workmanship warranty on our installations. We stand behind our work and are committed to your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "door-replacement",
+        "name": "Door Replacement",
+        "shortDescription": "Upgrade your home's security and style with new doors.",
+        "description": "Your doors are more than just entryways; they're a crucial element of your home's security, energy efficiency, and curb appeal. Windows & Doors Center offers a wide range of door replacement options to enhance your Long Beach home. Whether you're looking for a sturdy steel entry door, an elegant fiberglass door, or a beautiful patio door, we have the perfect solution for you.\n\nWe understand the importance of security, so we offer doors with reinforced frames, multi-point locking systems, and impact-resistant glass. We also prioritize energy efficiency, offering doors with insulated cores and tight seals to minimize drafts and reduce energy costs. Our team of experienced installers will ensure a precise fit and proper operation, providing you with a door that's both beautiful and functional. We can handle everything from removing the old door and frame to installing the new one, including any necessary modifications to the opening.\n\nFrom classic Craftsman-style doors to modern designs, we offer a variety of styles and finishes to complement your home's architecture. We can also customize doors to your specific needs and preferences.",
+        "process": [
+          "Step 1: Consultation and Measurement",
+          "Step 2: Door Selection and Quote",
+          "Step 3: Professional Installation",
+          "Step 4: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Improved Energy Efficiency",
+          "Increased Curb Appeal",
+          "Added Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors do you offer?",
+            "answer": "We offer a variety of door types, including entry doors, patio doors, sliding doors, and French doors. We also offer different materials, such as steel, fiberglass, and wood."
+          },
+          {
+            "question": "How much does door replacement cost?",
+            "answer": "The cost of door replacement depends on the type of door, the material, and the complexity of the installation. We offer free quotes to help you estimate the cost of your project."
+          },
+          {
+            "question": "How long does door replacement take?",
+            "answer": "Most door replacement projects can be completed in a single day. We'll provide a more accurate timeline during the consultation."
+          }
+        ]
+      },
+      {
+        "slug": "patio-door-installation",
+        "name": "Patio Door Installation",
+        "shortDescription": "Seamlessly connect your indoor and outdoor living spaces with new patio doors.",
+        "description": "Maximize your enjoyment of the Long Beach weather with a new patio door from Windows & Doors Center. We specialize in installing high-quality patio doors that enhance your home's beauty, functionality, and energy efficiency. Whether you prefer sliding glass doors, French doors, or bi-fold doors, we have the perfect solution to complement your home's style and your lifestyle.\n\nOur patio doors are designed to provide smooth operation, secure locking mechanisms, and excellent insulation. We offer a variety of frame materials, including vinyl, aluminum, and wood, to suit your preferences and budget. Our experienced installers will ensure a perfect fit and a weathertight seal, protecting your home from the elements. We take into account the unique challenges of coastal living, recommending doors that are resistant to corrosion, UV damage, and moisture.\n\nWe understand that patio doors are an important investment, so we offer a wide selection of styles and finishes to choose from. We can also customize doors to your specific needs, such as adding screens, blinds, or decorative glass.",
+        "process": [
+          "Step 1: Consultation and Measurement",
+          "Step 2: Door Selection and Quote",
+          "Step 3: Professional Installation",
+          "Step 4: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Enhanced Natural Light",
+          "Improved Access to Outdoor Spaces",
+          "Increased Home Value",
+          "Modern Aesthetic"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of sliding glass doors?",
+            "answer": "Sliding glass doors are a space-saving option that provides a wide opening and unobstructed views. They are also easy to operate and maintain."
+          },
+          {
+            "question": "What are the benefits of French doors?",
+            "answer": "French doors add a touch of elegance and sophistication to any home. They provide a wider opening than sliding doors and can swing inward or outward."
+          },
+          {
+            "question": "What are the benefits of bi-fold doors?",
+            "answer": "Bi-fold doors create a seamless transition between indoor and outdoor spaces. They fold completely open, providing maximum access to your patio or deck."
+          }
+        ]
+      },
+      {
+        "slug": "energy-efficient-windows",
+        "name": "Energy-Efficient Windows",
+        "shortDescription": "Reduce energy bills and improve comfort with energy-efficient windows.",
+        "description": "Combat the California sun and rising energy costs with energy-efficient windows from Windows & Doors Center. We offer a wide selection of windows designed to minimize heat transfer, reduce drafts, and lower your energy bills. Our energy-efficient windows feature advanced technologies such as low-E coatings, argon gas fills, and insulated frames. These features help to keep your home cooler in the summer and warmer in the winter, reducing your reliance on air conditioning and heating.\n\nWe carefully consider the local climate when recommending energy-efficient windows. We understand the importance of UV protection in Long Beach, so we offer windows with high-performance coatings that block harmful UV rays. We also offer windows with excellent insulation to minimize heat gain and heat loss. Our experienced team can help you choose the right energy-efficient windows for your home and budget.\n\nInvesting in energy-efficient windows is a smart way to save money on energy bills, improve your home's comfort, and reduce your carbon footprint. We are committed to providing our customers with the highest quality energy-efficient windows and expert installation services.",
+        "process": [
+          "Step 1: Energy Audit and Consultation",
+          "Step 2: Window Selection and Quote",
+          "Step 3: Professional Installation",
+          "Step 4: Energy Savings Verification"
+        ],
+        "benefits": [
+          "Lower Energy Bills",
+          "Improved Home Comfort",
+          "Reduced Carbon Footprint",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What are low-E coatings?",
+            "answer": "Low-E coatings are thin, transparent coatings applied to window glass to reduce heat transfer. They reflect infrared light, keeping your home cooler in the summer and warmer in the winter."
+          },
+          {
+            "question": "What is argon gas fill?",
+            "answer": "Argon gas is an inert, non-toxic gas that is used to fill the space between panes of glass in energy-efficient windows. It provides better insulation than air."
+          },
+          {
+            "question": "How do I know if my windows are energy-efficient?",
+            "answer": "Look for the ENERGY STAR label on your windows. ENERGY STAR certified windows meet strict energy efficiency guidelines set by the U.S. Environmental Protection Agency."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair",
+        "shortDescription": "Extend the life of your windows with professional repair services.",
+        "description": "Don't replace your windows unnecessarily! Windows & Doors Center offers comprehensive window repair services to address a variety of issues, saving you money and extending the life of your existing windows. From cracked glass to broken hardware, we can handle all types of window repairs. We understand the importance of maintaining your windows to prevent further damage and ensure energy efficiency.\n\nOur experienced technicians are skilled in diagnosing and repairing a wide range of window problems. We use high-quality replacement parts and proven repair techniques to restore your windows to their original condition. We also offer preventative maintenance services to help you avoid future problems. We carefully assess each situation to determine the most cost-effective and efficient repair solution.\n\nWe are committed to providing our customers with honest and reliable window repair services. We'll never try to sell you a replacement window if a repair is possible. We believe in providing our customers with the best possible value for their money.",
+        "process": [
+          "Step 1: Inspection and Diagnosis",
+          "Step 2: Repair Recommendation and Quote",
+          "Step 3: Professional Repair",
+          "Step 4: Quality Assurance Check"
+        ],
+        "benefits": [
+          "Cost Savings",
+          "Extended Window Life",
+          "Improved Energy Efficiency",
+          "Enhanced Home Security"
+        ],
+        "faq": [
+          {
+            "question": "What types of window repairs do you offer?",
+            "answer": "We offer a wide range of window repair services, including glass replacement, hardware repair, weather stripping replacement, and caulking."
+          },
+          {
+            "question": "How much does window repair cost?",
+            "answer": "The cost of window repair depends on the type of damage and the complexity of the repair. We offer free estimates to help you determine the cost of your project."
+          },
+          {
+            "question": "How long does window repair take?",
+            "answer": "Most window repairs can be completed in a single day. We'll provide a more accurate timeline during the consultation."
+          }
+        ]
+      },
+      {
+        "slug": "custom-window-design",
+        "name": "Custom Window Design",
+        "shortDescription": "Create unique windows tailored to your style and architectural needs.",
+        "description": "For homeowners seeking a truly unique look, Windows & Doors Center offers custom window design services. We work closely with you to create windows that perfectly match your style, architectural needs, and personal preferences. Whether you're restoring a historic home in Belmont Shore or building a modern masterpiece in Naples, we can design windows that complement your home's character and enhance its beauty.\n\nOur team of experienced designers will guide you through the process, from initial concept to final installation. We offer a wide range of customization options, including window shape, size, material, finish, and glass type. We can also incorporate special features such as decorative grilles, stained glass, or custom hardware. We understand the importance of detail, and we'll work tirelessly to ensure that your custom windows are exactly what you envision.\n\nWe use only the highest quality materials and craftsmanship to create our custom windows. We are committed to providing our customers with exceptional service and unparalleled results.",
+        "process": [
+          "Step 1: Design Consultation",
+          "Step 2: Design Development and Approval",
+          "Step 3: Custom Window Fabrication",
+          "Step 4: Professional Installation"
+        ],
+        "benefits": [
+          "Unique Design",
+          "Personalized Style",
+          "Enhanced Home Value",
+          "Perfect Fit"
+        ],
+        "faq": [
+          {
+            "question": "What types of custom window designs do you offer?",
+            "answer": "We offer a wide range of custom window designs, including arched windows, bay windows, bow windows, and garden windows. We can also create custom window shapes and sizes to meet your specific needs."
+          },
+          {
+            "question": "What materials can I choose for my custom windows?",
+            "answer": "We offer a variety of materials, including wood, vinyl, aluminum, and fiberglass. Each material has its own unique benefits and aesthetic qualities."
+          },
+          {
+            "question": "How long does it take to design and install custom windows?",
+            "answer": "The timeline for custom window design and installation depends on the complexity of the project. We'll provide a detailed timeline during the design consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is proud to offer window and door replacement services to the residents of Los Angeles, CA. From the iconic architecture of Hollywood to the diverse neighborhoods throughout the city, we understand the unique needs of LA homeowners. We provide a wide selection of energy-efficient windows and doors to suit the varied styles of homes found throughout Los Angeles, including the many beautiful 1920s Spanish Colonial Revival homes. \n\nOur team is experienced in working with the specific challenges and requirements of homes in Los Angeles. We are committed to providing quality installations and exceptional customer service to ensure that your window and door replacement project is a success. Whether you're looking to improve energy efficiency, enhance curb appeal, or increase the value of your home, Windows & Doors Center is here to help.",
+        "localContext": "Los Angeles is known for its warm, dry climate year-round and diverse architectural styles, especially the prevalence of 1920s Spanish Colonial Revival homes.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is delighted to serve the community of Pasadena, CA, with our top-notch window and door replacement services. Pasadena is known for its beautiful Craftsman bungalows dating from the 1910s to 1930s, and we understand the importance of preserving the architectural integrity of these homes. We offer a variety of window and door styles that complement Pasadena's unique character.\n\nWe are dedicated to providing Pasadena homeowners with energy-efficient and stylish window and door options. Our skilled installers ensure that every project is completed to the highest standards, with a focus on quality craftsmanship and customer satisfaction. Let Windows & Doors Center help you enhance the beauty and value of your Pasadena home.",
+        "localContext": "Pasadena is famous for its historic architecture, particularly its collection of Craftsman bungalows built between the 1910s and 1930s, and its warm, dry climate.",
+        "nearbyAreas": [
+          "San Marino",
+          "South Pasadena",
+          "Altadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is proud to offer window and door replacement services to the residents of Irvine, CA. As a master-planned community with homes primarily built from the 1970s to the present, Irvine presents a unique blend of modern styles and evolving energy-efficiency standards. We offer a wide range of window and door options specifically designed to complement Irvine's contemporary architecture.\n\nOur team is experienced in working with the diverse needs of Irvine homeowners. We are committed to providing exceptional customer service and quality installations that enhance the beauty, comfort, and energy efficiency of your home. Whether you're upgrading your windows and doors for aesthetic appeal or improved performance, Windows & Doors Center is here to assist you.",
+        "localContext": "Irvine is a master-planned community featuring homes built from the 1970s to the present, and it enjoys a warm, dry climate year-round.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is excited to provide Santa Clarita, CA, with our expert window and door replacement services. Known for its newer master-planned communities developed from the 1990s to the 2020s, Santa Clarita features modern home designs that demand both style and performance. We offer a variety of window and door options that perfectly suit the contemporary aesthetic of Santa Clarita homes.\n\nWe understand the importance of energy efficiency and curb appeal in Santa Clarita. Our team is dedicated to providing professional installations and exceptional customer service to ensure your complete satisfaction. Whether you're looking to upgrade your windows and doors for enhanced energy savings or to increase the value of your home, Windows & Doors Center is your trusted partner.",
+        "localContext": "Santa Clarita is characterized by its newer master-planned communities built from the 1990s to the 2020s and a warm, dry climate.",
+        "nearbyAreas": [
+          "Valencia",
+          "Saugus",
+          "Canyon Country"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is pleased to offer window and door replacement services to the residents of Torrance, CA. Torrance is characterized by its charming 1950s and 1960s post-war homes. We provide a wide array of window and door styles that complement the classic architecture of Torrance, while also offering modern energy-efficient solutions.\n\nOur team is committed to providing Torrance homeowners with exceptional customer service and high-quality installations. We understand the unique needs of homes in the area and are dedicated to enhancing the beauty, comfort, and value of your property. From classic designs to modern upgrades, Windows & Doors Center is here to help you find the perfect windows and doors for your Torrance home.",
+        "localContext": "Torrance features many 1950s and 1960s post-war homes and enjoys a warm, dry climate.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Carson",
+          "Gardena"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is proud to serve the Long Beach community, providing top-quality window and door replacement services. Long Beach boasts a diverse architectural landscape, from historic Craftsman bungalows to modern beachfront properties. We offer a wide selection of windows and doors to complement any style, ensuring your home looks its best while improving energy efficiency and security.\n\nOur experienced team is dedicated to delivering exceptional customer service and professional installations. We understand the unique needs of Long Beach residents and are committed to helping you find the perfect windows and doors to enhance your home's beauty and value. Whether you're looking to upgrade your historic home or modernize your beachfront property, Windows & Doors Center is here to help.",
+        "localContext": "Long Beach features a diverse range of architectural styles, from historic Craftsman homes to modern beachfront properties, and enjoys a mild, coastal climate.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Seal Beach"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is delighted to offer our window and door replacement services to the residents of Glendale, CA. Glendale showcases a mix of architectural styles, including Spanish Colonial Revival and mid-century modern homes. We provide a wide selection of window and door options to perfectly complement the unique character of Glendale homes, while also improving energy efficiency and comfort.\n\nOur team is committed to delivering exceptional customer service and professional installations. We understand the specific needs of Glendale homeowners and are dedicated to helping you enhance the beauty, value, and energy efficiency of your home. From classic designs to modern upgrades, Windows & Doors Center is your trusted partner for all your window and door needs in Glendale.",
+        "localContext": "Glendale features a mix of architectural styles, including Spanish Colonial Revival and mid-century modern homes, and experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "La Cañada Flintridge"
+        ]
+      },
+      {
+        "city": "Burbank",
+        "slug": "burbank-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is pleased to provide Burbank, CA, with our expert window and door replacement services. Known as the \"Media Capital of the World,\" Burbank features a variety of home styles, from charming bungalows to modern residences. We offer a wide range of window and door options to suit the diverse architectural landscape of Burbank, while also improving energy efficiency and security.\n\nOur team is committed to delivering exceptional customer service and professional installations. We understand the unique needs of Burbank homeowners and are dedicated to helping you enhance the beauty, value, and comfort of your home. Whether you're looking to upgrade your historic bungalow or modernize your contemporary residence, Windows & Doors Center is here to assist you.",
+        "localContext": "Burbank, known as the \"Media Capital of the World,\" features a variety of home styles and enjoys a warm, dry climate.",
+        "nearbyAreas": [
+          "Glendale",
+          "North Hollywood",
+          "Studio City"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is happy to offer our window and door services to Huntington Beach, CA! Known as \"Surf City USA\", Huntington Beach has many beach-style homes. We offer a variety of window and door options to perfectly complement Huntington Beach homes, while also improving energy efficiency and comfort.\n\nOur team is committed to delivering exceptional customer service and professional installations. We understand the specific needs of Huntington Beach homeowners and are dedicated to helping you enhance the beauty, value, and energy efficiency of your home. From classic designs to modern upgrades, Windows & Doors Center is your trusted partner for all your window and door needs in Huntington Beach.",
+        "localContext": "Huntington Beach features a variety of beach-style homes and enjoys a warm, dry climate.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Windows & Doors Center is pleased to provide Anaheim, CA, with our expert window and door replacement services. Home to Disneyland and the Anaheim Angels, Anaheim features a variety of home styles, from charming bungalows to modern residences. We offer a wide range of window and door options to suit the diverse architectural landscape of Anaheim, while also improving energy efficiency and security.\n\nOur team is committed to delivering exceptional customer service and professional installations. We understand the unique needs of Anaheim homeowners and are dedicated to helping you enhance the beauty, value, and comfort of your home. Whether you're looking to upgrade your historic bungalow or modernize your contemporary residence, Windows & Doors Center is here to assist you.",
+        "localContext": "Anaheim, home to Disneyland and the Anaheim Angels, features a variety of home styles and enjoys a warm, dry climate.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Windows & Doors Center did an amazing job replacing all the windows in my 1930s Craftsman bungalow in Belmont Heights. They were professional, efficient, and the new windows look fantastic! Huge improvement in noise reduction too.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Patio Door Installation",
+        "text": "We had a sliding glass door installed by Windows & Doors Center, and we're very happy with the results. The installation team was on time, courteous, and cleaned up everything afterwards. There was a small delay getting the door, but they kept us informed throughout the process.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Energy-Efficient Windows",
+        "text": "Our energy bills have noticeably decreased since Windows & Doors Center installed our new energy-efficient windows. The team was knowledgeable and helped us choose the right windows for our needs and budget. Highly recommend!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Door Replacement",
+        "text": "Great experience from start to finish. Windows & Doors Center replaced our front door, and it looks beautiful. The installer was very detail-oriented and made sure everything was perfect. Feel much safer now too!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Karen M.",
+        "rating": 4,
+        "service": "Window Repair",
+        "text": "I had a cracked window pane, and Windows & Doors Center was able to repair it quickly and affordably. They were very responsive and professional. Saved me from having to replace the entire window!.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "From the initial consultation to the final inspection, Windows & Doors Center provided exceptional service. They replaced all the windows in our home with high-quality, energy-efficient windows, and the difference is remarkable. Highly recommend their services!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Windows & Doors Center | Long Beach, CA",
+        "description": "Long Beach's premier window and door replacement company. Energy-efficient windows, expert installation, and superior customer service."
+      },
+      "about": {
+        "title": "About Us | Windows & Doors Center",
+        "description": "Learn about Windows & Doors Center's commitment to quality window and door replacement in Long Beach. Local experts you can trust."
+      },
+      "services": {
+        "title": "Window & Door Services | Long Beach, CA",
+        "description": "Explore our window and door services: replacement, installation, repair, and custom design. Serving Long Beach and surrounding areas."
+      },
+      "contact": {
+        "title": "Contact Us | Windows & Doors Center",
+        "description": "Contact Windows & Doors Center for a free quote on window and door replacement in Long Beach. Call us today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Windows & Doors Center",
+        "description": "Read what our satisfied customers have to say about Windows & Doors Center. Trusted window and door replacement company in Long Beach."
+      },
+      "service-areas": {
+        "title": "Service Areas | Windows & Doors Center",
+        "description": "Windows & Doors Center provides window and door services throughout Long Beach, Los Angeles, and surrounding Southern California cities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-replacement": "/images/service-window-replacement.webp",
+      "door-replacement": "/images/service-door-replacement.webp",
+      "patio-door-installation": "/images/service-patio-door-installation.webp",
+      "energy-efficient-windows": "/images/service-energy-efficient-windows.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "custom-window-design": "/images/service-custom-window-design.webp"
+    },
+    "servicesResponsive": {
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-replacement": {
+        "src": "/images/service-door-replacement.webp",
+        "srcset": "/images/service-door-replacement-400w.webp 400w, /images/service-door-replacement-800w.webp 800w, /images/service-door-replacement-1200w.webp 1200w, /images/service-door-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-door-installation": {
+        "src": "/images/service-patio-door-installation.webp",
+        "srcset": "/images/service-patio-door-installation-400w.webp 400w, /images/service-patio-door-installation-800w.webp 800w, /images/service-patio-door-installation-1200w.webp 1200w, /images/service-patio-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "energy-efficient-windows": {
+        "src": "/images/service-energy-efficient-windows.webp",
+        "srcset": "/images/service-energy-efficient-windows-400w.webp 400w, /images/service-energy-efficient-windows-800w.webp 800w, /images/service-energy-efficient-windows-1200w.webp 1200w, /images/service-energy-efficient-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-window-design": {
+        "src": "/images/service-custom-window-design.webp",
+        "srcset": "/images/service-custom-window-design-400w.webp 400w, /images/service-custom-window-design-800w.webp 800w, /images/service-custom-window-design-1200w.webp 1200w, /images/service-custom-window-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
